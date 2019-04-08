@@ -37,4 +37,6 @@ const config = {
     dropCollections: ["users"] // Drop collections from DB
   }
 }
+
+seedDB(config)
 ```
