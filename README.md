@@ -38,5 +38,3 @@ const config = {
   }
 }
 ```
-
-in package.json add the script 
