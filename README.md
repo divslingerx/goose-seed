@@ -40,3 +40,5 @@ const config = {
 
 seedDB(config)
 ```
+
+to create seed files run ```npm start``` from the command line
