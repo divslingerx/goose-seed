@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "faker": "^4.1.0",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "mongoose": "^5.4.3"
   }
 }
